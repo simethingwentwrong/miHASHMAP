@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiHashMap()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MiHashMap\r\n
+comment1.params=clave\ valor
+comment1.target=int\ put(java.lang.String,\ int)
+comment1.text=\r\nAsocia\ el\ valor\ especificado\ con\ la\ clave\ especificada.\ \r\nSi\ la\ clave\ exist\u00EDa,\ entonces\ sobreescribe\ su\ valor\ y\ devuelve\ el\ valor\ antiguo.\ \r\nSi\ no\ exist\u00EDa\ devuelve\ -1.\r\n
+numComments=2
